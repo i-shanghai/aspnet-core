@@ -28,7 +28,4 @@
     <PackageReference Include="Microsoft.AspNetCore" Version="2.1.0" />
     <PackageReference Include="Abp.AspNetCore.SignalR" Version="3.7.2" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="PhoneBooks\Persons\" />
-  </ItemGroup>
 </Project>
